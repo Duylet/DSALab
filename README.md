@@ -142,6 +142,7 @@ make clean  # Xóa file đã build
 Neu nop bang Pull Request, dat tieu de theo mau:
 [MSSV] - [Ho ten] - Bai tap tuan X
 ----
+Ví dụ:
 1. git clone https://github.com/nguyenvana/DSALab.git
 2. cd DSALab
 3. git add .
