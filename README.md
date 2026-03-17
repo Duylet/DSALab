@@ -1,8 +1,6 @@
 # 📚 Dự Án C++: Cấu Trúc Dữ Liệu và Giải Thuật
 
 > **Giáo trình:** Cấu trúc dữ liệu và Giải thuật  
-> **Trường:** Cao đẳng Công Thương TP. HCM  
-> **Tác giả:** ThS. Trần Anh Khoa & ThS. Hồ Diên Lợi  
 > **Ngôn ngữ:** C++17
 
 ---
